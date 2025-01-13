@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.rounded-three {
+    border-top-left-radius: 25%;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    
+}
+
+.card {
+    height: 400px;
+}
+
+.card img {
+    height: 300px;
+}
+
+.carousel button {
+    height: 40px;
+    width: 40px;
+    margin-top: auto;
+    margin-bottom: 400px;
+    
+}
+
+.testimonal {
+    height: 100vh;
+}

@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+#category .card img {
+    height: 150px;
+    width: 100%;
+}
+
+.card {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 300px;
+}
+
+.card img {
+    height: 200px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.easy {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-wrapper {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+input[type="email"] {
+    width: 80%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+button[type="submit"] {
+    background-color: #ff5722;
+    color: #fff;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#company img {
+    height: 50px;
+    width: 100px;
+}
+ li {
+    list-style: none;
+}
+
+ a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-icon {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
